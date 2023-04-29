@@ -1,0 +1,618 @@
+[
+    {
+        "name": "Guardians of the Galaxy Vol. 3 (2023)",
+        "categories": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "cast": [
+            "Chris Pratt",
+            "Zoe Saldana",
+            "Dave Bautista",
+            "Vin Diesel"
+        ]
+    },
+    {
+        "name": "De uskyldige (2021)",
+        "categories": [
+            "Drama",
+            "Fantasy",
+            "Horror"
+        ],
+        "cast": [
+            "Rakel Lenora Petersen Fl\u00f8ttum",
+            "Alva Brynsmo Ramstad",
+            "Sam Ashraf",
+            "Mina Yasmin Bremseth Asheim"
+        ]
+    },
+    {
+        "name": "Sundown (2021)",
+        "categories": [
+            "Drama"
+        ],
+        "cast": [
+            "Tim Roth",
+            "Albertine Kotting McMillan",
+            "Samuel Bottomley",
+            "Charlotte Gainsbourg"
+        ]
+    },
+    {
+        "name": "Home is Somewhere Else (2022)",
+        "categories": [
+            "Documentary",
+            "Animation"
+        ],
+        "cast": []
+    },
+    {
+        "name": "The Offering (2022)",
+        "categories": [
+            "Horror"
+        ],
+        "cast": [
+            "Nick Blood",
+            "Emily Wiseman",
+            "Paul Kaye",
+            "Allan Corduner"
+        ]
+    },
+    {
+        "name": "Book Club: The Next Chapter (2023)",
+        "categories": [
+            "Comedy"
+        ],
+        "cast": [
+            "Jane Fonda",
+            "Diane Keaton",
+            "Mary Steenburgen",
+            "Andy Garcia"
+        ]
+    },
+    {
+        "name": "Panama (2022)",
+        "categories": [
+            "Action",
+            "Thriller"
+        ],
+        "cast": [
+            "Cole Hauser",
+            "Mel Gibson",
+            "Mauricio H\u00e9nao",
+            "Kiara Liz"
+        ]
+    },
+    {
+        "name": "Mirando al Cielo (2023)",
+        "categories": [
+            "Drama"
+        ],
+        "cast": [
+            "Juli\u00e1n Fidalgo",
+            "Luis Xavier",
+            "Estela Cano",
+            "Alexis Orosco"
+        ]
+    },
+    {
+        "name": "\u00bfC\u00f3mo matar a Mam\u00e1? (2023)",
+        "categories": [
+            "Comedy",
+            "Drama"
+        ],
+        "cast": [
+            "Diana Bovio",
+            "Ximena Sari\u00f1ana",
+            "Blanca Guerra",
+            "Erick Elias"
+        ]
+    },
+    {
+        "name": "Shanhai Jing: Zaijian Gaoshou (2022)",
+        "categories": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "cast": [
+            "Cong Liu",
+            "Yi-ai Ai",
+            "Kai Wang",
+            "Zhe Zhang"
+        ]
+    },
+    {
+        "name": "Love Again (2023)",
+        "categories": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "cast": [
+            "Priyanka Chopra Jonas",
+            "Sam Heughan",
+            "Russell Tovey",
+            "Celia Imrie"
+        ]
+    },
+    {
+        "name": "Fast X (2023)",
+        "categories": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "cast": [
+            "Vin Diesel",
+            "Jordana Brewster",
+            "Tyrese Gibson",
+            "Michelle Rodriguez"
+        ]
+    },
+    {
+        "name": "Titanic 666 (2022)",
+        "categories": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "cast": [
+            "Keesha Sharp",
+            "Jamie Bamber",
+            "Lydia Hearst",
+            "AnnaLynne McCord"
+        ]
+    },
+    {
+        "name": "The Little Mermaid (2023)",
+        "categories": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "cast": [
+            "Halle Bailey",
+            "Jonah Hauer-King",
+            "Melissa McCarthy",
+            "Javier Bardem"
+        ]
+    },
+    {
+        "name": "The Black Demon (2023)",
+        "categories": [
+            "Horror",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "cast": [
+            "Josh Lucas",
+            "Fernanda Urrejola",
+            "H\u00e9ctor Jim\u00e9nez",
+            "Julio Cesar Cedillo"
+        ]
+    },
+    {
+        "name": "The Boogeyman (2023)",
+        "categories": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "cast": [
+            "Sophie Thatcher",
+            "Chris Messina",
+            "David Dastmalchian",
+            "Vivien Lyra Blair"
+        ]
+    },
+    {
+        "name": "Spider-Man: Across the Spider-Verse (2023)",
+        "categories": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "cast": [
+            "Shameik Moore",
+            "Hailee Steinfeld",
+            "Oscar Isaac",
+            "Jake Johnson"
+        ]
+    },
+    {
+        "name": "The Flash (2023)",
+        "categories": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "cast": [
+            "Ben Affleck",
+            "Michael Shannon",
+            "Michael Keaton",
+            "Temuera Morrison"
+        ]
+    },
+    {
+        "name": "No Hard Feelings (2023)",
+        "categories": [
+            "Comedy"
+        ],
+        "cast": [
+            "Jennifer Lawrence",
+            "Natalie Morales",
+            "Matthew Broderick",
+            "Ebon Moss-Bachrach"
+        ]
+    },
+    {
+        "name": "Elemental (2023)",
+        "categories": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "cast": [
+            "Leah Lewis",
+            "Mamoudou Athie",
+            "Ronnie Del Carmen",
+            "Shila Ommi"
+        ]
+    },
+    {
+        "name": "Indiana Jones and the Dial of Destiny (2023)",
+        "categories": [
+            "Action",
+            "Adventure"
+        ],
+        "cast": [
+            "Harrison Ford",
+            "Mads Mikkelsen",
+            "Boyd Holbrook",
+            "Phoebe Waller-Bridge"
+        ]
+    },
+    {
+        "name": "Ruby Gillman, Teenage Kraken (2023)",
+        "categories": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "cast": [
+            "Toni Collette",
+            "Jane Fonda",
+            "Annie Murphy",
+            "Will Forte"
+        ]
+    },
+    {
+        "name": "Harold and the Purple Crayon (2023)",
+        "categories": [
+            "Animation",
+            "Family",
+            "Fantasy"
+        ],
+        "cast": [
+            "Zachary Levi",
+            "Zooey Deschanel",
+            "Camille Guaty",
+            "Lil Rel Howery"
+        ]
+    },
+    {
+        "name": "Insidious: The Red Door (2023)",
+        "categories": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "cast": [
+            "Ty Simpkins",
+            "Patrick Wilson",
+            "Rose Byrne",
+            "Hiam Abbass"
+        ]
+    },
+    {
+        "name": "The Shadow of Fire (2023)",
+        "categories": [
+            "Action",
+            "Thriller"
+        ],
+        "cast": [
+            "Kelvin Hair",
+            "Shantol Jackson",
+            "Samuel Joslin",
+            "Stella Storm"
+        ]
+    },
+    {
+        "name": "The Portable Door (2023)",
+        "categories": [
+            "Fantasy"
+        ],
+        "cast": [
+            "Christoph Waltz",
+            "Patrick Gibson",
+            "Damon Herriman",
+            "Sophie Wilde"
+        ]
+    },
+    {
+        "name": "Barbie (2023)",
+        "categories": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "cast": [
+            "Margot Robbie",
+            "Ariana Greenblatt",
+            "Ryan Gosling",
+            "Helen Mirren"
+        ]
+    },
+    {
+        "name": "Oppenheimer (2023)",
+        "categories": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "cast": [
+            "Cillian Murphy",
+            "Emily Blunt",
+            "Matt Damon",
+            "Robert Downey Jr."
+        ]
+    },
+    {
+        "name": "Spray (2023)",
+        "categories": [
+            "Action",
+            "Thriller"
+        ],
+        "cast": [
+            "Tiger Shroff",
+            "Hank Strong",
+            "Jeff Willy",
+            "Kieron L. Dyer"
+        ]
+    },
+    {
+        "name": "Haunted Mansion (2023)",
+        "categories": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "cast": [
+            "Rosario Dawson",
+            "Winona Ryder",
+            "Jamie Lee Curtis",
+            "Jared Leto"
+        ]
+    },
+    {
+        "name": "Alibi.com 2 (2023)",
+        "categories": [
+            "Comedy"
+        ],
+        "cast": [
+            "Philippe Lacheau",
+            "\u00c9lodie Fontan",
+            "Tarek Boudali",
+            "Julien Arruti"
+        ]
+    },
+    {
+        "name": "The Last Voyage of the Demeter (2023)",
+        "categories": [
+            "Horror"
+        ],
+        "cast": [
+            "Corey Hawkins",
+            "Aisling Franciosi",
+            "Liam Cunningham",
+            "David Dastmalchian"
+        ]
+    },
+    {
+        "name": "Mis T\u00f3xicos XV (2023)",
+        "categories": [
+            "Comedy"
+        ],
+        "cast": [
+            "Valeria Vera",
+            "Gerardo Taracena",
+            "Paco Luna",
+            "Lupita Lara"
+        ]
+    },
+    {
+        "name": "Untitled Please Don't Destroy Project (2023)",
+        "categories": [
+            "Comedy"
+        ],
+        "cast": [
+            "Nichole Sakura",
+            "Conan O'Brien",
+            "Cedric Yarbrough",
+            "Bowen Yang"
+        ]
+    },
+    {
+        "name": "Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)",
+        "categories": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "cast": [
+            "Giancarlo Esposito",
+            "Seth Rogen",
+            "Rose Byrne",
+            "Paul Rudd"
+        ]
+    },
+    {
+        "name": "The Nun II (2023)",
+        "categories": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "cast": [
+            "Storm Reid",
+            "Bonnie Aarons",
+            "Taissa Farmiga",
+            "Anna Popplewell"
+        ]
+    },
+    {
+        "name": "Shazam! The Battle of the God's (2023)",
+        "categories": [
+            "Action"
+        ],
+        "cast": [
+            "Crepy Only",
+            "Diego Ramos Rem",
+            "Yordi Calixto God",
+            "Peter Dest Forteen"
+        ]
+    },
+    {
+        "name": "Next Goal Wins (2023)",
+        "categories": [
+            "Comedy",
+            "Drama",
+            "Sport"
+        ],
+        "cast": [
+            "Michael Fassbender",
+            "Oscar Kightley",
+            "Kaimana",
+            "David Fane"
+        ]
+    },
+    {
+        "name": "PAW Patrol: The Mighty Movie (2023)",
+        "categories": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "cast": [
+            "James Marsden",
+            "Mckenna Grace",
+            "Kristen Bell",
+            "Taraji P. Henson"
+        ]
+    },
+    {
+        "name": "Trolls Band Together (2023)",
+        "categories": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "cast": [
+            "Anna Kendrick",
+            "Zooey Deschanel",
+            "Christopher Mintz-Plasse",
+            "Justin Timberlake"
+        ]
+    },
+    {
+        "name": "Herseye Ragmen (2022)",
+        "categories": [
+            "Drama"
+        ],
+        "cast": [
+            "Robert Maaser",
+            "Ekin Mert Daymaz",
+            "Nihan B\u00fcy\u00fckaga\u00e7",
+            "Aslihan Malbora"
+        ]
+    },
+    {
+        "name": "The Idiots (2023)",
+        "categories": [
+            "Comedy"
+        ],
+        "cast": [
+            "Old-Nick",
+            "James Hogan",
+            "Alex Altman"
+        ]
+    },
+    {
+        "name": "Fuck Them All! (2023)",
+        "categories": [
+            "Biography"
+        ],
+        "cast": [
+            "Old-Nick",
+            "Sophie Fournier",
+            "Juan Rodrigues",
+            "Janet Priest"
+        ]
+    },
+    {
+        "name": "Ghostbusters Sequel (2023)",
+        "categories": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "cast": [
+            "Mckenna Grace",
+            "Paul Rudd",
+            "Carrie Coon",
+            "Finn Wolfhard"
+        ]
+    },
+    {
+        "name": "El Ni\u00f1o Dios (2023)",
+        "categories": [
+            "Family"
+        ],
+        "cast": [
+            "Ana Luc\u00eda Dom\u00ednguez",
+            "Eugenio Siller",
+            "Eduardo Y\u00e1\u00f1ez",
+            "Fernando Allende"
+        ]
+    },
+    {
+        "name": "Godzilla x Kong: The New Empire (2024)",
+        "categories": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "cast": [
+            "Dan Stevens",
+            "Rebecca Hall",
+            "Brian Tyree Henry",
+            "Rachel House"
+        ]
+    },
+    {
+        "name": "Snow White (2024)",
+        "categories": [
+            "Adventure",
+            "Drama",
+            "Family"
+        ],
+        "cast": [
+            "Rachel Zegler",
+            "Gal Gadot",
+            "Andrew Burnap",
+            "Luisa Guerreiro"
+        ]
+    }
+]

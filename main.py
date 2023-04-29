@@ -1,3 +1,5 @@
+import csv
+import json
 import requests
 from bs4 import BeautifulSoup
 
@@ -70,10 +72,35 @@ def create_movie(tag):
     
     
     cast = None
-    if ul_cast:
-        cast = [cast.span.text for cast in ul_cast.find_all('li')]
+    
+    cast = [ cast.span.text for cast in ul_cast.find_all('li') ] if ul_cast else []
     
     return (name, categories, cast)
+
+
+def create_csv_movies_file(movies):
+    with open('movies.csv', 'w') as file:
+        writer = csv.writer(file, delimiter="-")
+        writer.writerow(['name', 'categories', 'cast'])
+        
+        for movie in movies:
+            writer.writerow([
+                movie[0],
+                ",".join(movie[1]), # Categories
+                ",".join(movie[2]), # Cast
+            ])   
+            
+def create_json_movies_file(movies):
+    movies_list = [
+        {
+            'name': movie[0],
+                'categories': movie[1],
+                'cast': movie[2],
+        }
+        for movie in movies
+    ]
+    with open('movies.json', 'w', encoding='latin-1') as file:
+        json.dump(movies_list, file, indent=4)
 
 def main():
     content = get_imdb_content()
@@ -84,10 +111,14 @@ def main():
         'class': 'ipc-metadata-list-summary-item ipc-metadata-list-summary-item--click sc-8c2b7f1f-0 bpqYIE'
     })
     
+    movies = []
     for tag in li_tags:
         movie = create_movie(tag)
-        print(movie)
-        
+        movies.append(movie)
+    
+    create_csv_movies_file(movies)
+    create_json_movies_file(movies)
+    
    
 if __name__ == '__main__':
     main()
